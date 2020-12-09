@@ -18,7 +18,7 @@ Used for software walk-through
 
 ==========================================================================================
 
-# FAULTS
+# FAULTS  
 
 
 
@@ -26,7 +26,7 @@ Used for software walk-through
 
 
 
-# INCONSISTENCIES
+# INCONSISTENCIES  
 
 
 
@@ -34,11 +34,11 @@ Used for software walk-through
 
 
 
-# REQUIREMENTS VIOLATIONS
+# REQUIREMENTS VIOLATIONS  
 
 
 
 
 
 
-# IMPROVEMENTS
+# IMPROVEMENTS  
