@@ -1,4 +1,4 @@
-# CS4560Walk
+# CS 4560 SOFTWARE WAlK-THROUGH
 Used for software walk-through
 
 # Participants and Roles
