@@ -10,8 +10,8 @@ Used for software walk-through
 -Michael 
 
 ## Team Members - remaining actively participate to identify and describe anomalies
--Devin
--Caleb
+-Devin  
+-Caleb  
 
 
 
