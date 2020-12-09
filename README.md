@@ -50,7 +50,7 @@ Used for software walk-through
 ### Source-code Walk-through Checklist
 
 #### Data Reference Errors
-- [ ] Are any containers accessed outside their bounds?
+- [X] Are any containers accessed outside their bounds?
 - [ ] Are all references through a pointer variable currently allocated?
 
 #### Computation Errors
