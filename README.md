@@ -11,12 +11,11 @@ Used for software walk-through
 
 ## Team Members - remaining actively participate to identify and describe anomalies
 -Devin Waldon     
--Caleb Courtney  
+-Caleb Courtney    
   
 
 
 
-==========================================================================================
 
 # FAULTS     
 None Found
