@@ -26,7 +26,7 @@ None Found
 
 
 # INCONSISTENCIES     
-file srcSAXEVENTDispatcher.hpp line 757-771 (problem with inconsistent commenting)
+* file srcSAXEVENTDispatcher.hpp line 757-771 (problem with inconsistent commenting)
 
 
 
@@ -35,7 +35,7 @@ file srcSAXEVENTDispatcher.hpp line 757-771 (problem with inconsistent commentin
 
 
 # REQUIREMENTS VIOLATIONS
-None Found 
+* None Found 
 
 
 
