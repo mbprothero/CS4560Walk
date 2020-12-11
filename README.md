@@ -18,7 +18,7 @@ Used for software walk-through
 
 
 # FAULTS     
-None Found
+* None Found
 
 
 
@@ -42,18 +42,18 @@ None Found
 
 
 # IMPROVEMENTS     
-* file srcSAXEVENTDispatcher.hpp line 153 (could be improved. assign each variable explicity to false)   
-* file srcSAXEVENTDispatcher.hpp line 167 (could be improved. assign each variable explicity to false)   
-* file srcSAXEVENTDispatcher.hpp line 174-203 (possibly use boolean True/False instead of void)   
-* file srcSAXEVENTDispatcher.hpp line 312 (get rid of commented out code.)  
-* file srcSAXEVENTDispatcher.hpp line 205 (possibly refactor this map into own file)   
-* file srcSAXEVENTDispatcher.hpp line 475 (possibly refactor this map2 into own file)   
-* file srcSAXEVENTDispatcher.hpp line 541-550 (cant tell if problem is resolved or not code is still commented out)  
-* file srcSAXEVENTDispatcher.hpp line 772-774 (code smell can use a object in place of too many arguments)  
-* file srcSAXEVENTDispatcher.hpp line 778-800 (code smell can use a object in place of too many arguments)  
-* file srcSAXEVENTDispatcher.hpp line 849-857 (remove deprecated code)   
-* file srcSAXEVENTDispatcher.hpp line 942-945 (very confusing way of writing a conditional and the ternary should be factored out)  
-* file srcSAXEVENTDispatcher.hpp line 952-955 (very confusing way of writing a conditional and the ternary should be factored out)  
+* file srcSAXEventDispatcher.hpp line 153 (could be improved. assign each variable explicity to false)   
+* file srcSAXEventDispatcher.hpp line 167 (could be improved. assign each variable explicity to false)   
+* file srcSAXEventDispatcher.hpp line 174-203 (possibly use boolean True/False instead of void)   
+* file srcSAXEventDispatcher.hpp line 312 (get rid of commented out code.)  
+* file srcSAXEventDispatcher.hpp line 205 (possibly refactor this map into own file)   
+* file srcSAXEventDispatcher.hpp line 475 (possibly refactor this map2 into own file)   
+* file srcSAXEventDispatcher.hpp line 541-550 (cant tell if problem is resolved or not code is still commented out)  
+* file srcSAXEventDispatcher.hpp line 772-774 (code smell can use a object in place of too many arguments)  
+* file srcSAXEventDispatcher.hpp line 778-800 (code smell can use a object in place of too many arguments)  
+* file srcSAXEventDispatcher.hpp line 849-857 (remove deprecated code)   
+* file srcSAXEventDispatcher.hpp line 942-945 (very confusing way of writing a conditional and the ternary should be factored out)  
+* file srcSAXEventDispatcher.hpp line 952-955 (very confusing way of writing a conditional and the ternary should be factored out)  
 
 * file srcSAXSingleEventDisptcher.hpp line 57-75 (inconsistent whitespace could be improved)  
 
